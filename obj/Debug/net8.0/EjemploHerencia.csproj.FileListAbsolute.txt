@@ -1,0 +1,14 @@
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\bin\Debug\net8.0\EjemploHerencia.exe
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\bin\Debug\net8.0\EjemploHerencia.deps.json
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\bin\Debug\net8.0\EjemploHerencia.runtimeconfig.json
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\bin\Debug\net8.0\EjemploHerencia.dll
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\bin\Debug\net8.0\EjemploHerencia.pdb
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.AssemblyInfoInputs.cache
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.AssemblyInfo.cs
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.csproj.CoreCompileInputs.cache
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.dll
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\refint\EjemploHerencia.dll
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.pdb
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\EjemploHerencia.genruntimeconfig.cache
+C:\Users\marlon.aldana\source\repos\EjemploHerencia\EjemploHerencia\obj\Debug\net8.0\ref\EjemploHerencia.dll
